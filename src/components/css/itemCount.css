@@ -1,0 +1,16 @@
+.count-display{
+    display: flex;
+    height: 30px;
+    width: 150px;
+    justify-content: space-between;
+    line-height: 0px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: #1e272e;
+    color: white;
+}
+
+.count-display p{
+  padding-top: 1vh;
+}
